@@ -1,5 +1,6 @@
 # Security
 
+https://gerrit.wikimedia.org/r/q/status:open+-is:wip
 ## Reporting Security Issues
 
 When reporting a security issue, do not create an issue or file a pull
